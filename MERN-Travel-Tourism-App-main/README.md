@@ -13,20 +13,15 @@ This is a Travel and Tourism Management System built using the MERN stack (Mongo
 ## Screenshots
 
 ### Home Page
-![HomePage](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-25%20172413.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-24T11%3A55%3A59.838Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F3999f062b87f467f%2FScreenshot%25202025-04-25%2520172413.png%3FExpires%3D1840190160%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DyBeMkQaWdlZSsblndNQldMY9BF6~AqiTU98wjNYxm~Ayj-pzcgVyV~HrO~QkTmk~V5ilLmOeCGz~YDaEzyypYXqXRyqYgGe3mcGjN2Pzze0OHofQ3zgL985Dz-HGP6uIbPB06rkVgDYA9wNP2iR9Qw1gISXEx9gUNPZrte7zQPx8PZnThVJreOrT3pszr5GAbfFwP8hYcEs4hu~0goo6Wdf5PtmSD4jdB3wudclgULDnkfIfY63FqCXXs8TOid8r3HE8hTSTWFTb99Wni3D5gA2EO~WxYF6TLi7koskQOQxTioVu4f8-F0r3~IU7yRo5a70RnGj~INLsyK4pXFjKpQ__%22%7D)
-
+![HomePage](https://github.com/LughTuahDe/Tourism-Website/blob/main/homepage.png)
 ### Best Offers
-![BestOffers](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-25%20172423.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-24T11%3A55%3A59.841Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F5a73dece500c4d26%2FScreenshot%25202025-04-25%2520172423.png%3FExpires%3D1840190160%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3D0z4OL5WqDJ2nG55G82wSlZuYxBtOWA6IjeE2wIDkRLxp2UhiBaa7Cf~b5yP0oZN1xRmfSPRCkx6K7Smu4mZ~MLASMh5M~cgd40pu1UdJjgCv-cv54eD1Pk2QZYqZXojv1gSzycbC56-QxZok3PbYHZ~08xekkEmrPud~HC5oUF-9xWHUu9BMfkZe9NSgRpK1~C0URmOKvK0mZiqwfBjfohVlzrhclBdAHBida3nRwaASAtis2RGkJ4GhcTANz4YDSfr04GzQSBdS0q4H6B9uz8fAaf63J5JTviVLknwn3wHY0u-ECYjnshNC9D55G4r4nGdHjeu05bS2mRGTiBjPRQ__%22%7D)
-
+![BestOffers](https://github.com/LughTuahDe/Tourism-Website/blob/main/best%20offers.png)
 ### Search Packages
-![SearchPackagePage](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-25%20172432.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-24T11%3A55%3A59.843Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F874f1fdaed624433%2FScreenshot%25202025-04-25%2520172432.png%3FExpires%3D1840190160%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DTta5ajQL7I-3hO8CNo5gPNEmrwUrr0YER2QSbPkXuImuyyK0DGkA7m2I4LiaO-46YXBFr~eyjRNO25uDiVJiUaf0CYg7atwH2nTwJsBU69MpyLHPLal2SgoJHkFBVCPSS3Yd~kI3D~IN1MBKkpXjaIjipBrADeXCA7kId-rQzFTiTsa94wHRkTIOurqb-vDp~khL1I9NhkrdHMTNOMwqSNT5QppjDd88em96ksuoJL01TL~z7OAQx2xFwy8DJxhgwf-S3uDn8yWQ~PQPADGzrMFvyL3yEU-FKi0fanV1Puhsb~Wl23FhB5Vn8H~OBTJ7u6a7xKwWs1vRjg2h9lwBOw__%22%7D)
-
+![SearchPackagePage](https://github.com/LughTuahDe/Tourism-Website/blob/main/search%20package.png)
 ### User Page
-![UserPage](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-25%20172446.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-24T11%3A55%3A59.846Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F67a261df634a4a4a%2FScreenshot%25202025-04-25%2520172446.png%3FExpires%3D1840190160%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DKc4pjgJgdt97kcsk2KSsvHlSWfgJDyFTD847V9MPXetOZObCQA6aEHv8Phzf5N1S0GqlBj4s599EeaA-EB3DNelxwzI4Vc-2bdoW7P0Qs9VQ8xYyE3szih8402sx1HWGGB32WMHlxKcqI~oyd0j72hKNuBE3SJmO94ErvgT~OZlx7BjXeXtQqk6eGJwDr1C84mIt0QIosV6IiAxrn4VsWE471QL9kAXoCVFRFZKb7ua8m80umzUaGmqtVw~UviAkJi-wYyyaFQn9z0X4w~nj8zFD2AKmoWJubfwK~W6GZFKSjllVatYFUKFmR48AJvbL-HS0xbPoEmGQUv4tD5qrdA__%22%7D)
-
+![UserPage](https://github.com/LughTuahDe/Tourism-Website/blob/main/dashboard.png)
 ### About Page
-![AboutPage](https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Screenshot%202025-04-25%20172438.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-24T11%3A55%3A59.844Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F7ca020087b3b4f04%2FScreenshot%25202025-04-25%2520172438.png%3FExpires%3D1840190160%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DpzM-HRZltip0OiF0XM44G7px~3OfNlHQmYjNzPTQlFu0WR4x5dzvN8I6HOLaLjCJHv9N-jkOEj5bnKogfJjpetGsQ6QXrUOHx~DwVSqdHQbns3cK4lWp0Vu04xiyW5fhcuMAaIM7RqcqXB4dtiG8H5qmXTsL~tqCtJYcXHa6VKeMk5y2YWEZbA3qOJ1d6JJ-KwUXbc44j9uJfnUbaL1OTlpSLZAxowUxWPl4pPcLOW0aTclgv0qLDiQblMqqTijesG488jDJ-Z93mXxc9~31f6F8b5DEJgUpujGOlR7idPZPNvK4wo1myLigUFL-ZquxOX7rxO0YWO6tKE1N1FOWaQ__%22%7D)
-
+![AboutPage](https://github.com/LughTuahDe/Tourism-Website/blob/main/about.png)
 ## .ENV Configuration
 
 To run the application, configure the environment variables in a `.env` file as follows:
@@ -37,3 +32,28 @@ BRAINTREE_PUBLIC_KEY=your_braintree_public_key
 BRAINTREE_PRIVATE_KEY=your_braintree_private_key 
 NODE_ENV_CUSTOM=development/production 
 SERVER_URL=your_server_url
+
+
+## Setup
+
+1. Clone the repository.
+git clone https://github.com/yourusername/MERN-Travel-Tourism-App.git
+
+
+2. Install dependencies for both frontend and backend.
+- **Frontend:** Navigate to the frontend folder and run `npm install`.
+- **Backend:** Navigate to the backend folder and run `npm install`.
+
+3. Create a `.env` file in the root directory and configure it with your credentials.
+
+4. Run the app.
+- **Frontend:** Run `npm start` in the frontend directory.
+- **Backend:** Run `npm start` in the backend directory.
+
+5. Access the application on `http://localhost:3000`.
+
+## Contributing
+
+Feel free to fork the repository and make contributions. Please ensure to follow the existing code structure and add tests where applicable.
+
+
