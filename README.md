@@ -13,15 +13,15 @@ This is a Travel and Tourism Management System built using the MERN stack (Mongo
 ## Screenshots
 
 ### Home Page
-![HomePage]
+![HomePage](https://github.com/LughTuahDe/Tourism-Website/blob/main/homepage.png)
 ### Best Offers
-![BestOffers]
+![BestOffers](https://github.com/LughTuahDe/Tourism-Website/blob/main/best%20offers.png)
 ### Search Packages
-![SearchPackagePage]
+![SearchPackagePage](https://github.com/LughTuahDe/Tourism-Website/blob/main/search%20package.png)
 ### User Page
-![UserPage]
+![UserPage](https://github.com/LughTuahDe/Tourism-Website/blob/main/dashboard.png)
 ### About Page
-![AboutPage]
+![AboutPage](https://github.com/LughTuahDe/Tourism-Website/blob/main/about.png)
 ## .ENV Configuration
 
 To run the application, configure the environment variables in a `.env` file as follows:
